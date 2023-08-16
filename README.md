@@ -1,8 +1,7 @@
 # Hi! I'm Owen Cheesman
 ~~I have issues~~
 
-<!--
-**CheezlWeasel/CheezlWeasel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 I learnt programming in primary school using [Scratch](https://scratch.mit.edu/users/Owen975/), from there i learnt python with many project on [Repl.it](https://replit.com/@OwenCheesman), I also enjoy playing Dungeons and Dragons
 
@@ -18,3 +17,6 @@ Tech Stack
 - SQL
 - AWS
 - VisualStudioCode, Replit
+
+<!--
+**CheezlWeasel/CheezlWeasel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
